@@ -8,7 +8,7 @@ Create an app and select "Web API" for the question asking which APIs are you pl
 
 Once you have created your app, you will have access to the app credentials.
 
-Copy the client ID and paste it in spotify js instead of the place holder YOUR_SPOTIFY_CLIENT_ID.
+Copy the client ID and paste it in spotify js instead of the placeholder YOUR_SPOTIFY_CLIENT_ID.
 
 # Getting Started with Create React App
 
