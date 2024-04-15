@@ -1,4 +1,4 @@
-#Spotify API
+# Spotify API
 
 This project uses spotify API. To use it go to the official website.
 
