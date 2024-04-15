@@ -10,7 +10,7 @@ While creating app insert the Redirect URI as "http://localhost:3000".
 
 Once you have created your app, you will have access to the app credentials.
 
-Copy the client ID and paste it in spotify js instead of the placeholder YOUR_SPOTIFY_CLIENT_ID.
+Copy the client ID and paste it in spotify.js file instead of the placeholder YOUR_SPOTIFY_CLIENT_ID.
 
 # Getting Started with Create React App
 
