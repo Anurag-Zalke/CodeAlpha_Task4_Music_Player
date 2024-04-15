@@ -6,6 +6,8 @@ Log into the dashboard using your Spotify account.
 
 Create an app and select "Web API" for the question asking which APIs are you planning to use.
 
+While creating app insert the Redirect URI as "http://localhost:3000".
+
 Once you have created your app, you will have access to the app credentials.
 
 Copy the client ID and paste it in spotify js instead of the placeholder YOUR_SPOTIFY_CLIENT_ID.
